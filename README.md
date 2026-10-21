@@ -44,6 +44,3 @@ python-expense-tracker/
 
 ## Learning goals
 Functions, validation, CSV file handling, CRUD, Tkinter event handling, Pandas `groupby`, and Matplotlib charts.
-
-## Note
-Use sample or fictional data in public GitHub projects; avoid committing your personal financial data.

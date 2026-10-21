@@ -1,0 +1,7 @@
+id,date,type,category,amount,description
+001,2026-10-01,Income,Salary,75000.00,Monthly salary
+002,2026-10-02,Expense,Food,8500.00,Groceries
+003,2026-10-04,Expense,Transport,4000.00,Bus and fuel
+004,2026-10-05,Expense,Shopping,12000.00,Shopping
+005,2026-10-08,Expense,Bills,6500.00,Utilities
+006,2026-10-10,Income,Freelance,15000.00,Freelance income

@@ -1,4 +1,4 @@
-# Python Project 03 — Personal Expense Tracker
+# Python — Personal Expense Tracker
 
 Desktop expense management app built with **Python, Tkinter, CSV, Pandas, and Matplotlib**. This repository contains **fictional sample financial data**.
 
